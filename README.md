@@ -1,2 +1,2 @@
 # gitskills
-Crateing a new branch is quick.
+Crateing a new branch is quick AND simple.
