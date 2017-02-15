@@ -1,2 +1,3 @@
 # gitskills
 Crateing a new branch is quick AND simple In dev branch.
+Git is a free software...
